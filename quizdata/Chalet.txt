@@ -1,0 +1,322 @@
+# ------------------------------------------------------------------------------
+#
+#  Author:      Imran
+#  Editor:  	
+#  Last edited: 7/4/2021
+#
+#  Rainbow six siege Bank map callouts
+#  
+#
+# ------------------------------------------------------------------------------
+
+## valid keys:
+#  ----------
+#  Category?                              (should always be on top)
+#  Question                               (should always stand after Category)
+#  Answer                                 (will be matched if no regexp is provided)
+#  Image                                  (file path to the image to send with the question)
+#  Regexp?                                (use UNIX-style expressions)
+#  Diffculty:                             (beginner/intermediate/advanced)
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Bar Stock
+Image: quizimages/Chalet/Bar Stock.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Bar Stock
+Image: quizimages/Chalet/Bar Stock2.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Bar
+Image: quizimages/Chalet/Bar.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Basement Hallway
+Image: quizimages/Chalet/Basement Hallway.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Blue
+Image: quizimages/Chalet/Blue Hall aka Blue.jpg
+Regexp: (blue hall|blue)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Blue
+Image: quizimages/Chalet/Blue Hall aka Blue2.jpg
+Regexp: (blue hall|blue)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Car Garage
+Image: quizimages/Chalet/Car Garage aka Main Garage.jpg
+Regexp: (car garage|main garage)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Car Garage
+Image: quizimages/Chalet/Car Garage aka Main Garage2.jpg
+Regexp: (car garage|main garage)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Connector
+Image: quizimages/Chalet/Connector - called Storage Room on compass.jpg
+Regexp: (connector|storage room)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Dining Hall
+Image: quizimages/Chalet/Dining Hall.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Dining Room
+Image: quizimages/Chalet/Dining Room.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Dining Room
+Image: quizimages/Chalet/Dining Room2.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Lobby
+Image: quizimages/Chalet/Fireplace aka Lobby.jpg
+Regexp: (fireplace|lobby)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Lobby Stairs
+Image: quizimages/Chalet/Fireplace Stairs aka Lobby Stairs.jpg
+Regexp: (fireplace stairs|lobby stairs)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Gaming Hall
+Image: quizimages/Chalet/Gaming Hall.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Gaming Hall
+Image: quizimages/Chalet/Gaming Hall2.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Games
+Image: quizimages/Chalet/Gaming Room aka Games.jpg
+Regexp: (gaming room|games)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Games
+Image: quizimages/Chalet/Gaming Room aka Games2.jpg
+Regexp: (gaming room|games)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Garage Closet
+Image: quizimages/Chalet/Garage Closet - called Main Garage Entrance on compass.jpg
+Regexp: (garage closet|car garage entrance)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Kitchen
+Image: quizimages/Chalet/Kitchen.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Paintings
+Image: quizimages/Chalet/Library Entrance aka Paintings.jpg
+Regexp: (library entrance|paintings)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Library Hallway
+Image: quizimages/Chalet/Library Hallway.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Library Stairs
+Image: quizimages/Chalet/Library Stairs.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Library Stairs
+Image: quizimages/Chalet/Library Stairs2.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Library
+Image: quizimages/Chalet/Library.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Library
+Image: quizimages/Chalet/Library2.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Master Bathroom
+Image: quizimages/Chalet/Master Bathroom.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Master Bedroom
+Image: quizimages/Chalet/Master Bedroom.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Master Bedroom
+Image: quizimages/Chalet/Master Bedroom2.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Mezzanine
+Image: quizimages/Chalet/Mezzanine aka Fireplace Hall.jpg
+Regexp: (mezzanine|fireplace hall)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Mezzanine
+Image: quizimages/Chalet/Mezzanine aka Fireplace Hall2.jpg
+Regexp: (mezzanine|fireplace hall)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Mezzanine window
+Image: quizimages/Chalet/Mezzanine window.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Mudroom
+Image: quizimages/Chalet/Mudroom.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Mudroom
+Image: quizimages/Chalet/Mudroom2.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Office
+Image: quizimages/Chalet/Office.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Office
+Image: quizimages/Chalet/Office2.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Piano Room
+Image: quizimages/Chalet/Piano Room.jpg
+Regexp: (piano|piano room)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Piano Room
+Image: quizimages/Chalet/Piano Room2.jpg
+Regexp: (piano|piano room)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Small Garage
+Image: quizimages/Chalet/Snowmobile Garage aka Small Garage.jpg
+Regexp: (snowmobile garage|small garage|garage)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Solarium
+Image: quizimages/Chalet/Solarium.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Solarium
+Image: quizimages/Chalet/Solarium2.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Trophy Room
+Image: quizimages/Chalet/Trophy Room.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Trophy Room
+Image: quizimages/Chalet/Trophy Room2.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Trophy Stairs
+Image: quizimages/Chalet/Trophy Stairs.jpg
+Regexp: (trophy stairs|solarium stairs)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: West Main
+Image: quizimages/Chalet/West Main - aka Main Entrance.jpg
+Regexp: (west main|main entrance)
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: West Main Stairs
+Image: quizimages/Chalet/West Main Stairs.jpg
+Diffculty: Beginner
+
+Category: Chalet
+Question: What is the name of this section of the map?
+Answer: Wine
+Image: quizimages/Chalet/Wine Cellar aka Wine.jpg
+Regexp: (wine cellar|wine)
+Diffculty: Beginner
+
+end

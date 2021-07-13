@@ -1,0 +1,506 @@
+# ------------------------------------------------------------------------------
+#
+#  Author:      Imran
+#  Editor:  	Fiwip
+#  Last edited: 7/5/2021
+#
+#  Rainbow six siege Bank map callouts
+#  
+#
+# ------------------------------------------------------------------------------
+
+## valid keys:
+#  ----------
+#  Category?                              (should always be on top)
+#  Question                               (should always stand after Category)
+#  Answer                                 (will be matched if no regexp is provided)
+#  Image                                  (file path to the image to send with the question)
+#  Regexp?                                (use UNIX-style expressions)
+#  Diffculty:                             (beginner/intermediate/advanced)
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Arch
+Image: quizimages/Villa/Arch Hallway aka Arches aka Basement Hall aka arch.jpg
+Regexp: (arch hallway|arches|basement hall|arch)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Arch
+Image: quizimages/Villa/Arch Hallway aka Arches aka Basement Hall aka arch2.jpg
+Regexp: (arch hallway|arches|basement hall|arch)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Art Storage
+Image: quizimages/Villa/Art Storage.jpg
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Art Storage
+Image: quizimages/Villa/Art Storage2.jpg
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Art
+Image: quizimages/Villa/Art Studio aka Art.jpg
+Regexp: (art studio|art)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Art
+Image: quizimages/Villa/Art Studio aka Art2.jpg
+Regexp: (art studio|art)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Astro
+Image: quizimages/Villa/Astronomy Room aka astronomy aka astro.jpg
+Regexp: (astronomy room|astronomy|astro)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Astro
+Image: quizimages/Villa/Astronomy Room aka astronomy aka astro2.jpg
+Regexp: (astronomy room|astronomy|astro)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Aviator
+Image: quizimages/Villa/Aviator Room aka Planes aka aviator.jpg
+Regexp: (aviator room|planes|aviator)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Aviator
+Image: quizimages/Villa/Aviator Room aka Planes aka aviator2.jpg
+Regexp: (aviator room|planes|aviator)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Back Hall
+Image: quizimages/Villa/Back Hallway aka Clock aka back hall.jpg
+Regexp: (back hallway|clock|back hall)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Back Hall
+Image: quizimages/Villa/Back Hallway aka Clock aka back hall2.jpg
+Regexp: (back hallway|clock|back hall)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Astro Stairs
+Image: quizimages/Villa/Back Stairs aka Astro Stairs aka astronomy stairs.jpg
+Regexp: (back stairs|astro stairs|astronomy stairs)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Astro Stairs
+Image: quizimages/Villa/Back Stairs aka Astro Stairs aka astronomy stairs2.jpg
+Regexp: (back stairs|astro stairs|astronomy stairs)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Bikes
+Image: quizimages/Villa/Bicycle Storage aka Bikes aka bicycles.jpg
+Regexp: (bicycle storage|bikes|bicycles)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: China
+Image: quizimages/Villa/China Room aka china.jpg
+Regexp: (china room|china)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: 90
+Image: quizimages/Villa/Classical Hall aka West Hall aka classical aka 90.jpg
+Regexp: (classical hall|west hall|classical|90)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: 90
+Image: quizimages/Villa/Classical Hall aka West Hall aka classical aka 902.jpg
+Regexp: (classical hall|west hall|classical|90)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: 90
+Image: quizimages/Villa/Classical Hall aka West Hall aka classical aka 903.jpg
+Regexp: (classical hall|west hall|classical|90)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Dining
+Image: quizimages/Villa/Dining Room aka dining.jpg
+Regexp: (dining room|dining)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Dining
+Image: quizimages/Villa/Dining Room aka dining2.jpg
+Regexp: (dining room|dining)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: First Floor Bathroom
+Image: quizimages/Villa/First Floor Bathroom aka bathroom.jpg
+Regexp: (first floor bathroom|bathroom)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Gallery
+Image: quizimages/Villa/Gallery.jpg
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Gallery
+Image: quizimages/Villa/Gallery2.jpg
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Games
+Image: quizimages/Villa/Games Room aka games.jpg
+Regexp: (games room|games)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Games
+Image: quizimages/Villa/Games Room aka games2.jpg
+Regexp: (games room|games)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Vault
+Image: quizimages/Villa/Hunting Vault aka Vault aka hunting.jpg
+Regexp: (hunting vault|vault|hunting)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Vault
+Image: quizimages/Villa/Hunting Vault aka Vault aka hunting2.jpg
+Regexp: (hunting vault|vault|hunting)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Kitchen
+Image: quizimages/Villa/Kitchen.jpg
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Laundry
+Image: quizimages/Villa/Laundry aka laundry room.jpg
+Regexp: (laundry|laundry room)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Laundry
+Image: quizimages/Villa/Laundry aka laundry room2.jpg
+Regexp: (laundry|laundry room)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Library
+Image: quizimages/Villa/Library.jpg
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Library
+Image: quizimages/Villa/Library2.jpg
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Living Room
+Image: quizimages/Villa/Living Room.jpg
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Living Room
+Image: quizimages/Villa/Living Room2.jpg
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Main Entrance
+Image: quizimages/Villa/Main Entrance aka main door.jpg
+Regexp: (main entrance|main door)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Red Hall
+Image: quizimages/Villa/Main Hallway aka Red Hall aka main hall way aka main hall aka red hallway aka red hall way.jpg
+Regexp: (main hallway|red hall|main hall way|main hall|red hallway|red hall way)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Red Hall
+Image: quizimages/Villa/Main Hallway aka Red Hall aka main hall way aka main hall aka red hallway aka red hall way2.jpg
+Regexp: (main hallway|red hall|main hall way|main hall|red hallway|red hall way)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Red Hall
+Image: quizimages/Villa/Main Hallway aka Red Hall aka main hall way aka main hall aka red hallway aka red hall way3.jpg
+Regexp: (main hallway|red hall|main hall way|main hall|red hallway|red hall way)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Master Bathroom
+Image: quizimages/Villa/Master Bathroom aka master bath.jpg
+Regexp: (master bathroom|master bath|bathroom)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Master Bathroom
+Image: quizimages/Villa/Master Bathroom aka master bath2.jpg
+Regexp: (master bathroom|master bath|bathroom)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Master Bedroom 
+Image: quizimages/Villa/Master Bedroom aka master bed aka master.jpg
+Regexp: (master bedroom|master bed|master)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Master Bedroom
+Image: quizimages/Villa/Master Bedroom aka master bed aka master2.jpg
+Regexp: (master bedroom|master bed|bedroom)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Master Bedroom
+Image: quizimages/Villa/Master Bedroom aka master bed aka master3.jpg
+Regexp: (master bedroom|master bed|bedroom)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Memorial
+Image: quizimages/Villa/Memorial Room aka memorial aka memo.jpg
+Regexp: (memorial room|memorial|memo)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Memorial
+Image: quizimages/Villa/Memorial Room aka memorial aka memo2.jpg
+Regexp: (memorial room|memorial|memo)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Mudroom
+Image: quizimages/Villa/Mudroom aka mud aka mud room.jpg
+Regexp: (mudroom|mud|mud room)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Mudroom
+Image: quizimages/Villa/Mudroom aka mud aka mud room2.jpg
+Regexp: (mudroom|mud|mud room)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Old Office
+Image: quizimages/Villa/Old Office aka Basement Office.jpg
+Regexp: (old office|basement office)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Pantry
+Image: quizimages/Villa/Pantry aka kitchen pantry.jpg
+Regexp: (pantry|kitchen pantry)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Pantry Stairs
+Image: quizimages/Villa/Pantry Stairs.jpg
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Piano
+Image: quizimages/Villa/Piano Room aka piano.jpg
+Regexp: (piano room|piano)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Piano
+Image: quizimages/Villa/Piano Room aka piano2.jpg
+Regexp: (piano room|piano)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Lower Red Stairs
+Image: quizimages/Villa/red stairs aka lower red stairs.jpg
+Regexp: (red stairs|lower red stairs)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Upper Red Stairs
+Image: quizimages/Villa/Red Stairs aka upper red aka middle red aka upper red stairs aka middle red stairs.jpg
+Regexp: (red stairs|upper red|middle red|upper red stairs|middle red stairs)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Skylight Hall
+Image: quizimages/Villa/Skylight Hallway aka skylight hall aka sky light hallway aka sky light hall.jpg
+Regexp: (skylight hallway|skylight hall|sky light hallway|sky light hall)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Skylight Hall
+Image: quizimages/Villa/Skylight Hallway aka skylight hall aka sky light hallway aka sky light hall2.jpg
+Regexp: (skylight hallway|skylight hall|sky light hallway|sky light hall)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Statuary
+Image: quizimages/Villa/Statuary Room aka Statue aka statuary.jpg
+Regexp: (statuary room|statue|statuary)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Statuary
+Image: quizimages/Villa/Statuary Room aka Statue aka statuary2.jpg
+Regexp: (statuary room|statue|statuary)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Study
+Image: quizimages/Villa/Study.jpg
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Study
+Image: quizimages/Villa/Study2.jpg
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Tasting
+Image: quizimages/Villa/Tasting Room.jpg
+Diffculty: Beginner
+Regexp: (tasting room|tasting)
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Top Red
+Image: quizimages/Villa/Top of Red Stairs aka top red aka top red stairs aka landing.jpg
+Regexp: (top of red stairs|top red|top red stairs|landing)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Top Red
+Image: quizimages/Villa/Top of Red Stairs aka top red aka top red stairs aka landing2.jpg
+Regexp: (top of red stairs|top red|top red stairs|landing)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Wolf
+Image: quizimages/Villa/Trophy Entrance aka Trophy Double Doors aka trophy double door aka Wolf.jpg
+Regexp: (trophy entrance|trophy double doors|trophy double door|wolf)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Wolf
+Image: quizimages/Villa/Trophy Entrance aka Trophy Double Doors aka trophy double door aka Wolf2.jpg
+Regexp: (trophy entrance|trophy double doors|trophy double door|wolf)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Trophy
+Image: quizimages/Villa/Trophy Room aka trophy.jpg
+Regexp: (trophy room|trophy)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Trophy
+Image: quizimages/Villa/Trophy Room aka trophy2.jpg
+Regexp: (trophy room|trophy)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Closet
+Image: quizimages/Villa/Walk-In Closet aka Closet aka master closet.jpg
+Regexp: (walk-in closet|closet|master closet|walk in closet|walkin closet)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Wine Cellar
+Image: quizimages/Villa/Wine Cellar aka wine.jpg
+Regexp: (wine cellar|wine)
+Diffculty: Beginner
+
+Category: Villa
+Question: What is the name of this section of the map?
+Answer: Wine Cellar
+Image: quizimages/Villa/Wine Cellar2.jpg
+Diffculty: Beginner
+Regexp: (wine cellar|wine)
+
+end

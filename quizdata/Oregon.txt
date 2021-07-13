@@ -1,0 +1,386 @@
+# ------------------------------------------------------------------------------
+#
+#  Author:      Imran
+#  Editor:  	Fiwip
+#  Last edited: 7/7/2021
+#
+#  Rainbow six siege Bank map callouts
+#  
+#
+# ------------------------------------------------------------------------------
+
+## valid keys:
+#  ----------
+#  Category?                              (should always be on top)
+#  Question                               (should always stand after Category)
+#  Answer                                 (will be matched if no regexp is provided)
+#  Image                                  (file path to the image to send with the question)
+#  Regexp?                                (use UNIX-style expressions)
+#  Diffculty:                             (beginner/intermediate/advanced)
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Top Main Stairs
+Image: quizimages/Oregon/Armory Corridor aka Top Main Stairs.jpg
+Regexp: (armory corridor|top main stairs)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Armory
+Image: quizimages/Oregon/Armory.jpg
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Bottom Attic
+Image: quizimages/Oregon/Attic aka Bottom Attic aka Pit.jpg
+Regexp: (attic|bottom attic|pit)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Basement Hall
+Image: quizimages/Oregon/Basement Hall.jpg
+Regexp: (basement hall|basement hallway)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Basement Hall
+Image: quizimages/Oregon/Basement Hall2.jpg
+Regexp: (basement hall|basement hallway)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: T
+Image: quizimages/Oregon/Big Tower aka T2.jpg
+Regexp: (big tower|t)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Construction
+Image: quizimages/Oregon/Blue Bunker aka Construction.jpg
+Regexp: (blue bunker|construction)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Construction
+Image: quizimages/Oregon/Blue Bunker aka Construction2.jpg
+Regexp: (blue bunker|construction)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Boiler
+Image: quizimages/Oregon/Boiler Room aka Boiler aka Pillar.jpg
+Regexp: (boiler room|boiler|pillar)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Pillar
+Image: quizimages/Oregon/Boiler Room aka Boiler aka Pillar2.jpg
+Regexp: (boiler room|boiler|pillar)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Bottom Small
+Image: quizimages/Oregon/Bottom Small Tower aka First Floor Small Tower aka Small Tower.jpg
+Regexp: (bottom small tower|first floor small tower|small tower)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Classroom
+Image: quizimages/Oregon/Classroom.jpg
+Regexp: (classroom|class)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Dining
+Image: quizimages/Oregon/Dining Hall aka Dining.jpg
+Regexp: (dining hall|dining)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Dorm Hall
+Image: quizimages/Oregon/Dorm Main Hall aka Dorm Hall aka Dorm Bunks aka Bunks.jpg
+Regexp: (dorm main hall|dorm hall|dorm bunks|bunks|dorm hallway)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Bunks
+Image: quizimages/Oregon/Dorm Main Hall aka Dorm Hall aka Dorm Bunks aka Bunks2.jpg
+Regexp: (dorm main hall|dorm hall|dorm bunks|bunks)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Small Box
+Image: quizimages/Oregon/Electric Room aka Electrical aka Small Box aka Smallbox.jpg
+Regexp: (electric room|electrical|small box|smallbox)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Small Box 
+Image: quizimages/Oregon/Electric Room aka Electrical aka Small Box aka Smallbox2.jpg
+Regexp: (electric room|electrical|small box|smallbox)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Freezer Stairs
+Image: quizimages/Oregon/Freezer Stairs.jpg
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Freezer
+Image: quizimages/Oregon/Freezer.jpg
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Freezer
+Image: quizimages/Oregon/Freezer2.jpg
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Games
+Image: quizimages/Oregon/Game Room aka Games.jpg
+Regexp: (game room|games)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Games
+Image: quizimages/Oregon/Game Room aka Games2.jpg
+Regexp: (game room|games)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Garage
+Image: quizimages/Oregon/Garage.jpg
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Garage
+Image: quizimages/Oregon/Garage2.jpg
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Kids
+Image: quizimages/Oregon/Kids Dorms aka Kids.jpg
+Regexp: (kids dorms|kids)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Kitchen Corridor
+Image: quizimages/Oregon/Kitchen Corridor.jpg
+Regexp: (kitchen corridor|kitchen hallway|kitchen hall)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Kitchen Corridor
+Image: quizimages/Oregon/Kitchen Corridor2.jpg
+Regexp: (kitchen corridor|kitchen hallway|kitchen hall)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Kitchen
+Image: quizimages/Oregon/Kitchen.jpg
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Washers
+Image: quizimages/Oregon/Laundry Room aka Laundry aka Washers.jpg
+Regexp: (washers)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Laundry
+Image: quizimages/Oregon/Laundry Room aka Laundry.jpg
+Regexp: (laundry room|laundry)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Laundry Stairs
+Image: quizimages/Oregon/Laundry Stairs aka Bottom Main Stairs.jpg
+Regexp: (laundry stairs|bottom main stairs)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Laundry Storage
+Image: quizimages/Oregon/Laundry Storage aka Bottom Main Stairs.jpg
+Regexp: (laundry storage|bottom main stairs)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Laundry Storage
+Image: quizimages/Oregon/Laundry Storage aka Bottom Main Stairs2.jpg
+Regexp: (laundry storage|bottom main stairs)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Lobby
+Image: quizimages/Oregon/Lobby aka Main Lobby aka Main Entrance aka Lobby Entrance.jpg
+Regexp: (lobby|main lobby|main entrance|lobby entrance)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Lobby
+Image: quizimages/Oregon/Lobby aka Main Lobby aka Main Entrance aka Lobby Entrance2.jpg
+Regexp: (lobby|main lobby|main entrance|lobby entrance)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Main Stairs
+Image: quizimages/Oregon/Main Stairs.jpg
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Master
+Image: quizimages/Oregon/Master Bedroom aka Master.jpg
+Regexp: (master bedroom|master)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Meeting
+Image: quizimages/Oregon/Meeting Hall aka Meeting.jpg
+Regexp: (meeting hall|meeting)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: T1
+Image: quizimages/Oregon/Rear Stage aka T1.jpg
+Regexp: (rear stage|t1)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Zulu
+Image: quizimages/Oregon/Security Hall aka White Hall aka Zulu.jpg
+Regexp: (security hall|white hall|zulu)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Security
+Image: quizimages/Oregon/Security.jpg
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Shower Hall
+Image: quizimages/Oregon/Shower Corridor aka Shower Hall.jpg
+Regexp: (shower corridor|shower hall|shower hallway)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Shower Hall
+Image: quizimages/Oregon/Shower Corridor aka Shower Hall2.jpg
+Regexp: (shower corridor|shower hall|shower hallway)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Showers
+Image: quizimages/Oregon/Showers.jpg
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Small Tower Office
+Image: quizimages/Oregon/Small Tower Office.jpg
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Small Tower Office
+Image: quizimages/Oregon/Small Tower Office2.jpg
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Mira Box
+Image: quizimages/Oregon/Supply Closet aka Mira Box.jpg
+Regexp: (supply closet|mira box)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Supply
+Image: quizimages/Oregon/Supply Room aka Supply.jpg
+Regexp: (supply room|supply)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Supply
+Image: quizimages/Oregon/Supply Room aka Supply2.jpg
+Regexp: (supply room|supply)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: T2 Stairs
+Image: quizimages/Oregon/Tower Stairs aka T2 Stairs aka Upper Tower Stairs.jpg
+Regexp: (tower stairs|t2 stairs|upper tower stair)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Trophy
+Image: quizimages/Oregon/Trophy Room aka Trophy.jpg
+Regexp: (trophy room|trophy)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Trophy
+Image: quizimages/Oregon/Trophy Room aka Trophy2.jpg
+Regexp: (trophy room|trophy)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: Closet
+Image: quizimages/Oregon/Walk In aka Master Closet aka Closet.jpg
+Regexp: (walk in|master closet|closet)
+Diffculty: Beginner
+
+Category: Oregon
+Question: What is the name of this section of the map?
+Answer: White Stairs
+Image: quizimages/Oregon/White Stairs.jpg
+Diffculty: Beginner
+
+end

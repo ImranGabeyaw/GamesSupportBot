@@ -1,0 +1,378 @@
+# ------------------------------------------------------------------------------
+#
+#  Author:      Imran
+#  Editor:  	Fiwip
+#  Last edited: 7/7/2021
+#
+#  Rainbow six siege Bank map callouts
+#  
+#
+# ------------------------------------------------------------------------------
+
+## valid keys:
+#  ----------
+#  Category?                              (should always be on top)
+#  Question                               (should always stand after Category)
+#  Answer                                 (will be matched if no regexp is provided)
+#  Image                                  (file path to the image to send with the question)
+#  Regexp?                                (use UNIX-style expressions)
+#  Diffculty:                             (beginner/intermediate/advanced)
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Arcade Entrance
+Image: quizimages/Theme Park/Arcade Entrance.jpg
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Arcade Entrance
+Image: quizimages/Theme Park/Arcade Entrance2.jpg
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Arcade Stairs
+Image: quizimages/Theme Park/Arcade Stairs.jpg
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Armory
+Image: quizimages/Theme Park/Armory.jpg
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Armory
+Image: quizimages/Theme Park/Armory2.jpg
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Armory
+Image: quizimages/Theme Park/Armory3.jpg
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Barrels
+Image: quizimages/Theme Park/Barrel Room aka Barrels.jpg
+Regexp: (barrel room|barrels)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Barrels
+Image: quizimages/Theme Park/Barrel Room aka Barrels2.jpg
+Regexp: (barrel room|barrels)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Blue Hall
+Image: quizimages/Theme Park/Blue Room aka Blue Hall.jpg
+Regexp: (blue room|blue hall)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Blue Hall
+Image: quizimages/Theme Park/Blue Room aka Blue Hall2.jpg
+Regexp: (blue room|blue hall)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Break
+Image: quizimages/Theme Park/Break Room aka Break.jpg
+Regexp: (break room|break)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Break
+Image: quizimages/Theme Park/Break Room aka Break2.jpg
+Regexp: (break room|break)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Bunk
+Image: quizimages/Theme Park/Bunk.jpg
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Bunk
+Image: quizimages/Theme Park/Bunk2.jpg
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Cafe
+Image: quizimages/Theme Park/Cafe aka Cafe Entrance.jpg
+Regexp: (cafe|cafe entrance)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Cafe
+Image: quizimages/Theme Park/Cafe aka Cafe Entrance2.jpg
+Regexp: (cafe|cafe entrance)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Cafe Hall
+Image: quizimages/Theme Park/Cafe Hall.jpg
+Regexp: (cafe hall|cafe hallway)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Cash Hall
+Image: quizimages/Theme Park/Cash Hall.jpg
+Regexp: (cash hall|cash hallway)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Cash
+Image: quizimages/Theme Park/Cash Stash aka Cash.jpg
+Regexp: (cash stash|cash)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Cash
+Image: quizimages/Theme Park/Cash Stash aka Cash2.jpg
+Regexp: (cash stash|cash)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Control
+Image: quizimages/Theme Park/Control Room aka Control.jpg
+Regexp: (control room|control)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Control
+Image: quizimages/Theme Park/Control Room aka Control2.jpg
+Regexp: (control room|control)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Day Care
+Image: quizimages/Theme Park/Day Care.jpg
+Regexp: (day care|daycare)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Day Care
+Image: quizimages/Theme Park/Day Care2.jpg
+Regexp: (day care|daycare)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: First Floor Bathroom
+Image: quizimages/Theme Park/First Floor Bathroom.jpg
+Regexp: (first floor bathroom|bathroom)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: First Floor Bathroom
+Image: quizimages/Theme Park/First Floor Bathroom2.jpg
+Regexp: (first floor bathroom|bathroom)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Bottom Dragon
+Image: quizimages/Theme Park/First Floor Dragon Stairs aka First Floor Dragon aka Dragon Bottom aka Bottom Dragon aka Bottom Dragon Stairs.jpg
+Regexp: (first floor dragon stairs|first floor dragon|dragon bottom|bottom dragon|bottom dragon stairs)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Gong
+Image: quizimages/Theme Park/Gong Room aka Gong.jpg
+Regexp: (gong room|gong)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Gong
+Image: quizimages/Theme Park/Gong Room aka Gong2.jpg
+Regexp: (gong room|gong)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Initiation
+Image: quizimages/Theme Park/Initiation Room aka Initiation.jpg
+Regexp: (initiation room|initiation)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Initiation
+Image: quizimages/Theme Park/Initiation Room aka Initiation2.jpg
+Regexp: (initiation room|initiation)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Connector
+Image: quizimages/Theme Park/Joint Corridor aka Connector.jpg
+Regexp: (joint corridor|connector)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Connector
+Image: quizimages/Theme Park/Joint Corridor aka Connector2.jpg
+Regexp: (joint corridor|connector)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Lab
+Image: quizimages/Theme Park/Lab aka Drug Lab.jpg
+Regexp: (lab|drug lab)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Lockers
+Image: quizimages/Theme Park/Locker Room aka Locker aka Lockers.jpg
+Regexp: (locker room|locker|lockers)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Maintenance
+Image: quizimages/Theme Park/Maintenance.jpg
+Regexp: (maintenance|maint)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Maintenance
+Image: quizimages/Theme Park/Maintenance2.jpg
+Regexp: (maintenance|maint)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Showers
+Image: quizimages/Theme Park/Office Showers aka Showers aka Office Bathroom.jpg
+Regexp: (office showers|showers|office bathroom)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Vault
+Image: quizimages/Theme Park/Office Vault aka Vault.jpg
+Regexp: (office vault|vault)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Office
+Image: quizimages/Theme Park/Office.jpg
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Office
+Image: quizimages/Theme Park/Office2.jpg
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Top Dragon
+Image: quizimages/Theme Park/Second Floor Dragon Stairs aka Dragon Top aka Top Dragon aka Top Dragon Stairs.jpg
+Regexp: (second floor dragon stairs|dragon top|top dragon|top dragon stairs)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Yellow Hall
+Image: quizimages/Theme Park/Second Floor Yellow Hall aka Yellow Hall.jpg
+Regexp: (second floor yellow hall|yellow hall)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Yellow Hall
+Image: quizimages/Theme Park/Second Floor Yellow Hall aka Yellow Hall2.jpg
+Regexp: (second floor yellow hall|yellow hall)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Coke
+Image: quizimages/Theme Park/Storage aka Coke Room aka Coke.jpg
+Regexp: (storage|coke room|coke)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Coke
+Image: quizimages/Theme Park/Storage aka Coke Room aka Coke2.jpg
+Regexp: (storage|coke room|coke)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Tellers
+Image: quizimages/Theme Park/Tellers.jpg
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Throne Room
+Image: quizimages/Theme Park/Throne Room.jpg
+Regexp: (throne room|throne)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Throne Room
+Image: quizimages/Theme Park/Throne Room2.jpg
+Regexp: (throne room|throne)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Upper Arcade
+Image: quizimages/Theme Park/Upper Arcade.jpg
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Upper Arcade
+Image: quizimages/Theme Park/Upper Arcade2.jpg
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Waiting
+Image: quizimages/Theme Park/Waiting Room aka Waiting.jpg
+Regexp: (waiting room|waiting)
+Diffculty: Beginner
+
+Category: Theme Park
+Question: What is the name of this section of the map?
+Answer: Yellow Stairs
+Image: quizimages/Theme Park/Yellow Stairs.jpg
+Diffculty: Beginner
+
+end

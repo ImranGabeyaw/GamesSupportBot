@@ -1,0 +1,224 @@
+# ------------------------------------------------------------------------------
+#
+#  Author:      Imran
+#  Editor:  	
+#  Last edited: 7/5/2021
+#
+#  Rainbow six siege Bank map callouts
+#  
+#
+# ------------------------------------------------------------------------------
+
+## valid keys:
+#  ----------
+#  Category?                              (should always be on top)
+#  Question                               (should always stand after Category)
+#  Answer                                 (will be matched if no regexp is provided)
+#  Image                                  (file path to the image to send with the question)
+#  Regexp?                                (use UNIX-style expressions)
+#  Diffculty:                             (beginner/intermediate/advanced)
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Aqua
+Image: quizimages/Coastline/Aquarium aka Aqua.jpg
+Regexp: (aquarium|aqua)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Aqua
+Image: quizimages/Coastline/Aquarium aka Aqua2.jpg
+Regexp: (aquarium|aqua)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Pool Bar
+Image: quizimages/Coastline/Billiards Room aka Pool and Pool Bar.jpg
+Regexp: (billiards room|pool|pool bar)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Pool Bar
+Image: quizimages/Coastline/Billiards Room aka Pool and Pool Bar2.jpg
+Regexp: (billiards room|pool|pool bar)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Blue Bar
+Image: quizimages/Coastline/Blue Bar.jpg
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Cool Vibes
+Image: quizimages/Coastline/Cool Vibes aka Blue Stairs.jpg
+Regexp: (cool vibes|blue stairs)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Toilets
+Image: quizimages/Coastline/First Floor Bathroom aka Toilets.jpg
+Regexp: (first floor bathroom|toilets)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Hall of Fame
+Image: quizimages/Coastline/Hall of Fame.jpg
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Hookah
+Image: quizimages/Coastline/Hookah Lounge.jpg
+Regexp: (hookah lounge|hookah)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Hookah
+Image: quizimages/Coastline/Hookah Lounge2.jpg
+Regexp: (hookah lounge|hookah)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Kitchen
+Image: quizimages/Coastline/Kitchen.jpg
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Luggage
+Image: quizimages/Coastline/Luggage aka Aqua Hall - called South Hallway on compass.jpg
+Regexp: (luggage|aqua hall|south hallway)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Luggage
+Image: quizimages/Coastline/Luggage aka Aqua Hall aka South Hallway.jpg
+Regexp: (luggage|aqua hall|south hallway)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Luggage
+Image: quizimages/Coastline/Luggage aka Aqua Hall aka South Hallway2.jpg
+Regexp: (luggage|aqua hall|south hallway)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Main Lobby
+Image: quizimages/Coastline/Main Lobby.jpg
+Regexp: (main lobby|lobby)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Office
+Image: quizimages/Coastline/Office.jpg
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Office
+Image: quizimages/Coastline/Office2.jpg
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Penthouse Bathroom
+Image: quizimages/Coastline/Second Floor Bathroom aka Penthouse Bathroom.jpg
+Regexp: (second floor bathroom|penthouse bathroom|bathroom)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Office Hall
+Image: quizimages/Coastline/Security Hall aka Office Hall aka Sun Room.jpg
+Regexp: (security hall|office hall|sun room|office hallway|security hallway)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Office Hall
+Image: quizimages/Coastline/Security Hall aka Office Hall aka Sun Room2.jpg
+Regexp: (security hall|office hall|sun room|office hallway|security hallway)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Server
+Image: quizimages/Coastline/Security Room aka Server.jpg
+Regexp: (security room|server|security)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Service Entrance
+Image: quizimages/Coastline/Service Entrance.jpg
+Regexp: (service entrance|service)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Service Entrance
+Image: quizimages/Coastline/Service Entrance2.jpg
+Regexp: (service entrance|service)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Sunrise Bar
+Image: quizimages/Coastline/Sunrise Bar.jpg
+Regexp: (sunrise bar|sunrise)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Sunrise Entrance
+Image: quizimages/Coastline/Sunrise Entrance aka Pool Entrance.jpg
+Regexp: (sunrise entrance|pool entrance)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Theater
+Image: quizimages/Coastline/Theater.jpg
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Theater
+Image: quizimages/Coastline/Theater2.jpg
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: VIP
+Image: quizimages/Coastline/VIP Lounge aka VIP.jpg
+Regexp: (vip lounge|vip)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: VIP
+Image: quizimages/Coastline/VIP Lounge aka VIP2.jpg
+Regexp: (vip lounge|vip)
+Diffculty: Beginner
+
+Category: Coastline
+Question: What is the name of this section of the map?
+Answer: Lobby Stairs
+Image: quizimages/Coastline/White Stairs aka Lobby Stairs.jpg
+Regexp: (white stairs|lobby stairs)
+Diffculty: Beginner
+
+end

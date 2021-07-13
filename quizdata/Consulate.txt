@@ -1,0 +1,321 @@
+# ------------------------------------------------------------------------------
+#
+#  Author:      Imran
+#  Editor:  	
+#  Last edited: 7/5/2021
+#
+#  Rainbow six siege Bank map callouts
+#  
+#
+# ------------------------------------------------------------------------------
+
+## valid keys:
+#  ----------
+#  Category?                              (should always be on top)
+#  Question                               (should always stand after Category)
+#  Answer                                 (will be matched if no regexp is provided)
+#  Image                                  (file path to the image to send with the question)
+#  Regexp?                                (use UNIX-style expressions)
+#  Diffculty:                             (beginner/intermediate/advanced)
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Admin
+Image: quizimages/Consulate/Administration Office aka Admin.jpg
+Regexp: (administration office|admin)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Admin
+Image: quizimages/Consulate/Administration Office aka Admin2.jpg
+Regexp: (administration office|admin)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Bathroom Hall
+Image: quizimages/Consulate/Antechamber aka Bathroom Hall.jpg
+Regexp: (antechamber|bathroom hall|bathroom hallway)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Bathroom Hall
+Image: quizimages/Consulate/Antechamber aka Bathroom Hall2.jpg
+Regexp: (antechamber|bathroom hall|bathroom hallway)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Server
+Image: quizimages/Consulate/Archives aka Server.jpg
+Regexp: (archives|server)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Server
+Image: quizimages/Consulate/Archives aka Server2.jpg
+Regexp: (archives|server)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Basement Corridor
+Image: quizimages/Consulate/Basement Corridor.jpg
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Break Room
+Image: quizimages/Consulate/Break Room.jpg
+Regexp: (break room|breakroom)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Cafeteria
+Image: quizimages/Consulate/Cafeteria.jpg
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Cafeteria
+Image: quizimages/Consulate/Cafeteria2.jpg
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Connector
+Image: quizimages/Consulate/Connector aka Waiting Room.jpg
+Regexp: (connector|waiting room)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Small Desk
+Image: quizimages/Consulate/Consul Front Desk aka Mini Desk.jpg
+Regexp: (consul front desk|mini desk|consulate front desk|small desk)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Small Desk
+Image: quizimages/Consulate/Consul Front Desk aka Mini Desk2.jpg
+Regexp: (consul front desk|mini desk|consulate front desk|small desk|consualte desk)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Consulate Office
+Image: quizimages/Consulate/Consulate Office.jpg
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Consulate Office
+Image: quizimages/Consulate/Consulate Office2.jpg
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Printer
+Image: quizimages/Consulate/Copy Room aka Printer Room aka Paper.jpg
+Regexp: (copy room|printer room|paper|printer)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Printer Room
+Image: quizimages/Consulate/Copy Room aka Printer Room aka Paper2.jpg
+Regexp: (copy room|printer room|paper|printer)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Electric Room
+Image: quizimages/Consulate/Electric Room.jpg
+Regexp: (electric room|electric)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Yellow
+Image: quizimages/Consulate/Exit Stairs aka Yellow.jpg
+Regexp: (exit stairs|yellow|yellow stairs)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: First Floor Bathroom
+Image: quizimages/Consulate/First Floor Bathroom.jpg
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: First Floor Bathroom
+Image: quizimages/Consulate/First Floor Bathroom2.jpg
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: TV
+Image: quizimages/Consulate/Front Office aka TV.jpg
+Regexp: (front office|tv)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: TV
+Image: quizimages/Consulate/Front Office aka TV3.jpg
+Regexp: (front office|tv)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Garage
+Image: quizimages/Consulate/Garage.jpg
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Garage
+Image: quizimages/Consulate/Garage2.jpg
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Circle Desk
+Image: quizimages/Consulate/Lobby aka Circle Desk.jpg
+Regexp: (lobby|circle desk)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Circle Desk
+Image: quizimages/Consulate/Lobby aka Circle Desk2.jpg
+Regexp: (lobby|circle desk)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Locker Hallway
+Image: quizimages/Consulate/Locker Hallway.jpg
+Regexp: (locker hallway|locker hall|lockers)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Locker Hallway
+Image: quizimages/Consulate/Locker Hallway2.jpg
+Regexp: (locker hallway|locker hall|lockers)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Long Desk
+Image: quizimages/Consulate/Long Desk aka Hallway.jpg
+Regexp: (long desk|hallway)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Projector
+Image: quizimages/Consulate/Meeting Room aka Projector.jpg
+Regexp: (meeting room|projector)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Projector
+Image: quizimages/Consulate/Meeting Room aka Projector2.jpg
+Regexp: (meeting room|projector)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Piano
+Image: quizimages/Consulate/Press Room aka Piano.jpg
+Regexp: (press room|piano)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Piano
+Image: quizimages/Consulate/Press Room aka Piano2.jpg
+Regexp: (press room|piano)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Second Floor Bathroom
+Image: quizimages/Consulate/Second Floor Bathroom.jpg
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Second Floor Bathroom
+Image: quizimages/Consulate/Second Floor Bathroom2.jpg
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Security Room
+Image: quizimages/Consulate/Security Room.jpg
+Regexp: (security room|security)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Service Stairs
+Image: quizimages/Consulate/Service Stairs.jpg
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Service Stairs
+Image: quizimages/Consulate/Service Stairs2.jpg
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Storage Room
+Image: quizimages/Consulate/Storage Room.jpg
+Regexp: (storage room|storage)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Tellers
+Image: quizimages/Consulate/Tellers.jpg
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Tellers
+Image: quizimages/Consulate/Tellers2.jpg
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Visa
+Image: quizimages/Consulate/Visa Office aka Visa.jpg
+Regexp: (visa office|visa)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer: Visa
+Image: quizimages/Consulate/Visa Office2.jpg
+Regexp: (visa office|visa)
+Diffculty: Beginner
+
+Category: Consulate
+Question: What is the name of this section of the map?
+Answer:  Benches
+Image: quizimages/Consulate/West Corridor aka Benches aka First Floor Back Hall.jpg
+Regexp: (west corridor|benches|first floor back hall)
+Diffculty: Beginner
+
+end

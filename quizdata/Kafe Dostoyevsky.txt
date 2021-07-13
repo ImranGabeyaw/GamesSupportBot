@@ -1,0 +1,282 @@
+# ------------------------------------------------------------------------------
+#
+#  Author:      Imran
+#  Editor:  	
+#  Last edited: 7/5/2021
+#
+#  Rainbow six siege Bank map callouts
+#  
+#
+# ------------------------------------------------------------------------------
+
+## valid keys:
+#  ----------
+#  Category?                              (should always be on top)
+#  Question                               (should always stand after Category)
+#  Answer                                 (will be matched if no regexp is provided)
+#  Image                                  (file path to the image to send with the question)
+#  Regexp?                                (use UNIX-style expressions)
+#  Diffculty:                             (beginner/intermediate/advanced)
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Bakery
+Image: quizimages/Kafe Dostoyevsky/Bakery.jpg
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Bakery
+Image: quizimages/Kafe Dostoyevsky/Bakery2.jpg
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Freezer
+Image: quizimages/Kafe Dostoyevsky/Bar Backstore aka Freezer.jpg
+Regexp: (bar backstore|freezer)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Deep Freezer
+Image: quizimages/Kafe Dostoyevsky/Bar Freezer aka Deep Freezer.jpg
+Regexp: (bar freezer|deep freezer)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: New Hatch
+Image: quizimages/Kafe Dostoyevsky/Cigar Balcony aka New Hatch.jpg
+Regexp: (cigar balcony|new hatch)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Cigar
+Image: quizimages/Kafe Dostoyevsky/Cigar Shop aka Cigar.jpg
+Regexp: (cigar shop|cigar)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Coats
+Image: quizimages/Kafe Dostoyevsky/Coat Check aka Coats.jpg
+Regexp: (coat check|coats)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Heaven
+Image: quizimages/Kafe Dostoyevsky/Cocktail Balcony aka Heaven.jpg
+Regexp: (cocktail balcony|heaven)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Cocktail
+Image: quizimages/Kafe Dostoyevsky/Cocktail Lounge aka Cocktail.jpg
+Regexp: (cocktail lounge|cocktail)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Top of White
+Image: quizimages/Kafe Dostoyevsky/Cocktail Lounge Entrance aka Top of White.jpg
+Regexp: (cocktail lounge entrance|top of white)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Dining
+Image: quizimages/Kafe Dostoyevsky/Fireplace Hall aka Second Floor Dining.jpg
+Regexp: (fireplace hall|second floor dining|dining)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Tables
+Image: quizimages/Kafe Dostoyevsky/First Floor Dining Room aka Tables.jpg
+Regexp: (first floor dining room|tables)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: First Floor Red
+Image: quizimages/Kafe Dostoyevsky/First Floor Red aka First Floor Main Hall.jpg
+Regexp: (first floor red|first floor main hall)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Freezer
+Image: quizimages/Kafe Dostoyevsky/Freezer aka Meat.jpg
+Regexp: (freezer|meat)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Kitchen
+Image: quizimages/Kafe Dostoyevsky/Kitchen Cooking aka Kitchen aka Cooking.jpg
+Regexp: (kitchen cooking|kitchen|cooking)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Service
+Image: quizimages/Kafe Dostoyevsky/Kitchen Service aka Service.jpg
+Regexp: (kitchen service|service)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Service
+Image: quizimages/Kafe Dostoyevsky/Kitchen Service aka Service2.jpg
+Regexp: (kitchen service|service)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Laundry Room
+Image: quizimages/Kafe Dostoyevsky/Laundry Room.jpg
+Regexp: (laundry room|laundry)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Mining Room
+Image: quizimages/Kafe Dostoyevsky/Mining Room.jpg
+Regexp: (mining room|mining)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Outside Mining
+Image: quizimages/Kafe Dostoyevsky/Museum Entrance aka Second Floor Red Hall aka Outside Mining.jpg
+Regexp: (museum entrance|second floor red hall|outside mining)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Piano
+Image: quizimages/Kafe Dostoyevsky/Piano aka Cigar Lounge.jpg
+Regexp: (piano|cigar lounge)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Piano
+Image: quizimages/Kafe Dostoyevsky/Piano aka Cigar Lounge2.jpg
+Regexp: (piano|cigar lounge)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Pillars
+Image: quizimages/Kafe Dostoyevsky/Pillar Room aka Pillars.jpg
+Regexp: (pillar room|pillars)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Pillars
+Image: quizimages/Kafe Dostoyevsky/Pillar Room aka Pillars2.jpg
+Regexp: (pillar room|pillars)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Prep
+Image: quizimages/Kafe Dostoyevsky/Prep Room aka Prep.jpg
+Regexp: (prep room|prep)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Short Hall
+Image: quizimages/Kafe Dostoyevsky/Reading Room Corridor aka Short Hall aka Fireplace Hall.jpg
+Regexp: (reading room corridor|short hall|fireplace hall)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Reading Room
+Image: quizimages/Kafe Dostoyevsky/Reading Room.jpg
+Regexp: (reading room|reading)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Reading Room
+Image: quizimages/Kafe Dostoyevsky/Reading Room2.jpg
+Regexp: (reading room|reading)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Reception
+Image: quizimages/Kafe Dostoyevsky/Reception aka Main Entrance.jpg
+Regexp: (reception|main entrance)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Red Stairs
+Image: quizimages/Kafe Dostoyevsky/Red Stairs.jpg
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Small Bakery
+Image: quizimages/Kafe Dostoyevsky/Small Bakery.jpg
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Bar
+Image: quizimages/Kafe Dostoyevsky/Top Floor Bar.jpg
+Regexp: (top floor bar|bar)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Trains
+Image: quizimages/Kafe Dostoyevsky/Train Museum aka Trains.jpg
+Regexp: (train museum|trains)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Freezer Hall
+Image: quizimages/Kafe Dostoyevsky/VIP Hall aka Freezer Hall aka Freezer Hallway aka VIP Hallway.jpg
+Regexp: (vip hall|freezer hall|freezer hallway|vip hallway)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Christmas
+Image: quizimages/Kafe Dostoyevsky/VIP Section aka Christmas.jpg
+Regexp: (vip section|christmas)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: Washrooms
+Image: quizimages/Kafe Dostoyevsky/Washrooms aka Top Floor Bathroom.jpg
+Regexp: (washroom|top floor bathroom|bathroom)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: White Hall
+Image: quizimages/Kafe Dostoyevsky/White Corridor aka Top Floor White Hall.jpg
+Regexp: (white corridor|top floor white hall|white hallway|white hall)
+Diffculty: Beginner
+
+Category: Kafe Dostoyevsky
+Question: What is the name of this section of the map?
+Answer: White Stairs
+Image: quizimages/Kafe Dostoyevsky/White Stairs.jpg
+Diffculty: Beginner
+
+end

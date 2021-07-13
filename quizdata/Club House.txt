@@ -1,0 +1,254 @@
+# ------------------------------------------------------------------------------
+#
+#  Author:      Imran
+#  Editor:  	
+#  Last edited: 7/5/2021
+#
+#  Rainbow six siege Bank map callouts
+#  
+#
+# ------------------------------------------------------------------------------
+
+## valid keys:
+#  ----------
+#  Category?                              (should always be on top)
+#  Question                               (should always stand after Category)
+#  Answer                                 (will be matched if no regexp is provided)
+#  Image                                  (file path to the image to send with the question)
+#  Regexp?                                (use UNIX-style expressions)
+#  Diffculty:                             (beginner/intermediate/advanced)
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Armory
+Image: quizimages/Club House/Arsenal Room aka Armory.jpg
+Regexp: (arsenal room|armory)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Bar Entrance
+Image: quizimages/Club House/Bar Entrance aka Main Entrance - called Lobby on compass.jpg
+Regexp: (bar entrance|main entrance|Lobby)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Bar
+Image: quizimages/Club House/Bar.jpg
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Basement Hallway
+Image: quizimages/Club House/Basement Hallway.jpg
+Regexp: (basement hallway|basement hall)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Bathroom
+Image: quizimages/Club House/Bathroom.jpg
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Bedroom Hallway
+Image: quizimages/Club House/Bedroom Hallway.jpg
+Regexp: (bedroom hallway|bedroom hall)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Bedroom
+Image: quizimages/Club House/Bedroom.jpg
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Blue
+Image: quizimages/Club House/Blue - called Utility Room on compass.jpg
+Regexp: (blue|utility room|utility)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Blue Stairs
+Image: quizimages/Club House/Blue Stairs.jpg
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Cash Room
+Image: quizimages/Club House/Cash Room.jpg
+Regexp: (cash room|cash)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: CCTV
+Image: quizimages/Club House/CCTV Room aka CC aka Server.jpg
+Regexp: (cctv room|cc|server|cctv)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Central Hallway
+Image: quizimages/Club House/Central Hallway.jpg
+Regexp: (central hallway|central hall)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Changing Room
+Image: quizimages/Club House/Changing Room aka Back Strip Hall.jpg
+Regexp: (changing room|back strip hall|changing)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Church
+Image: quizimages/Club House/Church.jpg
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Construction
+Image: quizimages/Club House/Construction.jpg
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Red Stairs
+Image: quizimages/Club House/Eastern Stairs aka Server Stairs aka Red Stairs.jpg
+Regexp: (eastern stairs|server stairs|red stairs)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Freezer
+Image: quizimages/Club House/Freezer - called Kitchen Entrance on compass.jpg
+Regexp: (freezer|kitchen entrance)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Top Blue
+Image: quizimages/Club House/Garage Storage aka Blue Storage aka Top of Blue.jpg
+Regexp: (garage storage|blue storage|top of blue|top blue)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Garage
+Image: quizimages/Club House/Garage.jpg
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Gym
+Image: quizimages/Club House/Gym.jpg
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Lockers
+Image: quizimages/Club House/Junkyard Entrance aka Lockers.jpg
+Regexp: (junkyard entrance|lockers)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Kitchen
+Image: quizimages/Club House/Kitchen.jpg
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Logistics
+Image: quizimages/Club House/Logistic Office aka Logistics.jpg
+Regexp: (logistic office|logistics)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Logistics
+Image: quizimages/Club House/Logistic Office aka Logistics2.jpg
+Regexp: (logistic office|logistics)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Lounge
+Image: quizimages/Club House/Lounge.jpg
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Main Stairs
+Image: quizimages/Club House/Main Stairs - called Central Stairs on compass.jpg
+Regexp: (main stairs|central stairs)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Memorial
+Image: quizimages/Club House/Memorial Room aka Bike aka Moto.jpg
+Regexp: (memorial room|bike|moto)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Oil Pit
+Image: quizimages/Club House/Oil Pit.jpg
+Regexp: (oil pit|oil)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Pool Table
+Image: quizimages/Club House/Pool Table.jpg
+Regexp: (pool table|pool)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Secret Stash
+Image: quizimages/Club House/Secret Stash.jpg
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Stage
+Image: quizimages/Club House/Stage.jpg
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Stock Room
+Image: quizimages/Club House/Stock Room.jpg
+Regexp: (stock room|stocks|stock)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Strip Club
+Image: quizimages/Club House/Strip Club.jpg
+Regexp: (strip club|strip)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Strip Hall
+Image: quizimages/Club House/Strip Hall - called Western Hallway on compass.jpg
+Regexp: (strip hall|western hall|strip hallway|western hallway|west hall)
+Diffculty: Beginner
+
+Category: Club House
+Question: What is the name of this section of the map?
+Answer: Toilets
+Image: quizimages/Club House/Toilets aka First Floor Bathroom.jpg
+Regexp: (toilets|first floor bathroom)
+Diffculty: Beginner
+
+end

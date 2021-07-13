@@ -1,0 +1,248 @@
+# ------------------------------------------------------------------------------
+#
+#  Author:      Imran
+#  Editor:  	
+#  Last edited: 7/3/2021
+#
+#  Rainbow six siege Bank map callouts
+#  
+#
+# ------------------------------------------------------------------------------
+
+## valid keys:
+#  ----------
+#  Category?                              (should always be on top)
+#  Question                               (should always stand after Category)
+#  Answer                                 (will be matched if no regexp is provided)
+#  Image                                  (file path to the image to send with the question)
+#  Regexp?                                (use UNIX-style expressions)
+#  Diffculty:                             (beginner/intermediate/advanced)
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: admin
+Image: quizimages/Bank/admin.jpg
+Regexp: (admin|small office)
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: archives
+Image: quizimages/Bank/archives.jpg
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: ATMs
+Image: quizimages/Bank/ATMs.jpg
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: blue stairs
+Image: quizimages/Bank/blue stairs.jpg
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: cash
+Image: quizimages/Bank/cash.jpg
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: CCTV
+Image: quizimages/Bank/CCTV.jpg
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: CEO office
+Image: quizimages/Bank/CEO office.jpg
+Regexp: (ceo|ceo office)
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: electrical
+Image: quizimages/Bank/Electrical Room aka Back Alley Exit.jpg
+Regexp: (electrical|back alley|electrical room|back alley exit)
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: middle office
+Image: quizimages/Bank/Executive Lounge aka Couches aka Middle Office.jpg
+Regexp: (middle office|couches|executive lounge|executive)
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: office hall
+Image: quizimages/Bank/First Floor Hall aka Office Hall.jpg
+Regexp: (office hall|first floor hall|first floor elevators)
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: front desk
+Image: quizimages/Bank/front desk.jpg
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: front desk
+Image: quizimages/Bank/front desk2.jpg
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: garage ramp
+Image: quizimages/Bank/garage ramp.jpg
+Regexp: (garage ramp|ramp)
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: garage
+Image: quizimages/Bank/garage.jpg
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: janitor closet
+Image: quizimages/Bank/janitor closet.jpg
+Regexp: (janitor closet|janitors)
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: loan office
+Image: quizimages/Bank/loan office.jpg
+Regexp: (loan office|loans)
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: main lobby
+Image: quizimages/Bank/lobby.jpg
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: lockers
+Image: quizimages/Bank/lockers.jpg
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: long desk
+Image: quizimages/Bank/long desk aka meeting room.jpg
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: lower skylight
+Image: quizimages/Bank/lower skylight.jpg
+Regexp: (lower skylight|lower square)
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: main stairs
+Image: quizimages/Bank/main stairs.jpg
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: open area
+Image: quizimages/Bank/open area.jpg
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: printer room
+Image: quizimages/Bank/printer room.jpg
+Regexp: (printer|printer room)
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: red
+Image: quizimages/Bank/red aka locker hall.jpg
+Regexp: (red|locker hall|red hall)
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: red
+Image: quizimages/Bank/Red aka Locker Hall2.jpg
+Regexp: (red|locker hall)
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: second floor hall
+Image: quizimages/Bank/second floor hall.jpg
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: second floor hall
+Image: quizimages/Bank/second floor hall2.jpg
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: server
+Image: quizimages/Bank/server.jpg
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: staff
+Image: quizimages/Bank/Staff.jpg
+Regexp: (staff|staff room|cafeteria)
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: stocks
+Image: quizimages/Bank/stocks.jpg
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: tellers' office
+Image: quizimages/Bank/Tellers' Office.jpg
+Regexp: (tellers' office|tellers office)
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: tellers'
+Image: quizimages/Bank/tellers.jpg
+Regexp: (tellers'|tellers|lobby desk)
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: upper skylight
+Image: quizimages/Bank/upper skylight aka top square.jpg
+Regexp: (upper skylight|top square|upper square)
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: basement elevators
+Image: quizimages/Bank/Vault Lobby aka Basement Elevators.jpg
+Regexp: (vault lobby|basement elevators)
+Diffculty: Beginner
+
+Category: Bank
+Question: What is the name of this section of the map?
+Answer: vault
+Image: quizimages/Bank/vault.jpg
+Diffculty: Beginner
+
+end

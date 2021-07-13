@@ -1,0 +1,228 @@
+# ------------------------------------------------------------------------------
+#
+#  Author:      Imran
+#  Editor:  	
+#  Last edited: 7/4/2021
+#
+#  Rainbow six siege Border map callouts
+#  
+#
+# ------------------------------------------------------------------------------
+
+## valid keys:
+#  ----------
+#  Category?                              (should always be on top)
+#  Question                               (should always stand after Category)
+#  Answer                                 (will be matched if no regexp is provided)
+#  Image                                  (file path to the image to send with the question)
+#  Regexp?                                (use UNIX-style expressions)
+#  Diffculty:                             (beginner/intermediate/advanced)
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Archives
+Image: quizimages/Border/Archives.jpg
+Diffculty: Beginner
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Archives
+Image: quizimages/Border/Archives2.jpg
+Diffculty: Beginner
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Small Office
+Image: quizimages/Border/Armory Desk aka Small Office.jpg
+Diffculty: Beginner
+Regexp: (armory desk|small office)
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Armory
+Image: quizimages/Border/Armory Lockers aka Armory.jpg
+Diffculty: Beginner
+Regexp: (armory lockers|armory)
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Armory
+Image: quizimages/Border/Armory Lockers aka Armory2.jpg
+Diffculty: Beginner
+Regexp: (armory lockers|armory)
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Bathroom
+Image: quizimages/Border/Bathroom.jpg
+Diffculty: Beginner
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Break Room
+Image: quizimages/Border/Break Room.jpg
+Diffculty: Beginner
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Armory Stairs
+Image: quizimages/Border/Central Stairs aka Armory Stairs aka Metal Stairs.jpg
+Diffculty: Beginner
+Regexp: (central stairs|armory stairs|metal stairs)
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Customs Desk
+Image: quizimages/Border/Customs Desk aka Customs Small Office.jpg
+Diffculty: Beginner
+Regexp: (customs desk|customs small office)
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Customs
+Image: quizimages/Border/Customs Inspection aka Customs.jpg
+Diffculty: Beginner
+Regexp: (customs inspection|customs)
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Detention Hall
+Image: quizimages/Border/Detention Hall aka Supply Hall.jpg
+Diffculty: Beginner
+Regexp: (detention hall|supply hall)
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Detention
+Image: quizimages/Border/Detention.jpg
+Diffculty: Beginner
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: East Stairs
+Image: quizimages/Border/East Stairs.jpg
+Diffculty: Beginner
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Fountain
+Image: quizimages/Border/Fountain.jpg
+Diffculty: Beginner
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Main Hall
+Image: quizimages/Border/Main Hallway aka Short Hall and Long Hall.jpg
+Diffculty: Beginner
+Regexp: (main hallway|short hall|long hall|main hall)
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Main Hall
+Image: quizimages/Border/Main Hallway aka Short Hall and Long Hall2.jpg
+Diffculty: Beginner
+Regexp: (main hallway|short hall|long hall|main hall)
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Main Lobby
+Image: quizimages/Border/Main Lobby.jpg
+Diffculty: Beginner
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Main Lobby
+Image: quizimages/Border/Main Lobby2.jpg
+Diffculty: Beginner
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Offices
+Image: quizimages/Border/Offices.jpg
+Diffculty: Beginner
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Offices
+Image: quizimages/Border/Offices2.jpg
+Diffculty: Beginner
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Passport
+Image: quizimages/Border/Passport Check aka Passport.jpg
+Diffculty: Beginner
+Regexp:(passport check|passport)
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Security Room
+Image: quizimages/Border/Security Room aka CC aka Monitors.jpg
+Diffculty: Beginner
+Regexp: (security room|cc|monitors)
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Security Room
+Image: quizimages/Border/Security Room aka CC aka Monitors2.jpg
+Diffculty: Beginner
+Regexp: (security room|cc|monitors)
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Server Room
+Image: quizimages/Border/Server Room.jpg
+Diffculty: Beginner
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Supply Room
+Image: quizimages/Border/Supply Room.jpg
+Diffculty: Beginner
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Tellers
+Image: quizimages/Border/Tellers.jpg
+Diffculty: Beginner
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Tellers
+Image: quizimages/Border/Tellers2.jpg
+Diffculty: Beginner
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Vent
+Image: quizimages/Border/Ventilation Room aka Vent.jpg
+Diffculty: Beginner
+Regexp: (ventilation room|vent)
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Square
+Image: quizimages/Border/Waiting Room aka Square.jpg
+Diffculty: Beginner
+Regexp: (waiting room|square)
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: West Entrance
+Image: quizimages/Border/West Entrance - called Exit Hallway on compass.jpg
+Diffculty: Beginner
+Regexp: (west entrance|exit hallway)
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Workshop
+Image: quizimages/Border/Workshop.jpg
+Diffculty: Beginner
+
+Category: Border
+Question: What is the name of this section of the map?
+Answer: Workshop
+Image: quizimages/Border/Workshop2.jpg
+Diffculty: Beginner
+
+end

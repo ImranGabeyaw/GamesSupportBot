@@ -1,0 +1,437 @@
+# ------------------------------------------------------------------------------
+#
+#  Author:      Imran
+#  Editor:  	Fiwip
+#  Last edited: 7/7/2021
+#
+#  Rainbow six siege Bank map callouts
+#  
+#
+# ------------------------------------------------------------------------------
+
+## valid keys:
+#  ----------
+#  Category?                              (should always be on top)
+#  Question                               (should always stand after Category)
+#  Answer                                 (will be matched if no regexp is provided)
+#  Image                                  (file path to the image to send with the question)
+#  Regexp?                                (use UNIX-style expressions)
+#  Diffculty:                             (beginner/intermediate/advanced)
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Archives
+Image: quizimages/Kanal/Archives.jpg
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Archives
+Image: quizimages/Kanal/Archives2.jpg
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Bathroom
+Image: quizimages/Kanal/Bathroom aka Stalls.jpg
+Regexp: (bathroom|stalls)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Blue Stairs
+Image: quizimages/Kanal/Blue Stairs.jpg
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Meeting Room
+Image: quizimages/Kanal/Coast Guard Meeting Room aka Coast Guard aka Meeting aka Meeting Room.jpg
+Regexp: (coast guard meeting room|coast guard|meeting|meeting room|meeting)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Meeting Room
+Image: quizimages/Kanal/Coast Guard Meeting Room aka Coast Guard aka Meeting aka Meeting Room2.jpg
+Regexp: (coast guard meeting room|coast guard|meeting|meeting room|meeting)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Controls
+Image: quizimages/Kanal/Control Room aka Controls.jpg
+Regexp: (control room|controls|control)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Red Hall
+Image: quizimages/Kanal/Control Room Hallway aka Red Hall.jpg
+Regexp: (control room hallway|red hall|red hallway)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Red Hall
+Image: quizimages/Kanal/Control Room Hallway aka Red Hall2.jpg
+Regexp: (control room hallway|red hall|red hallway)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Diving
+Image: quizimages/Kanal/Diving Room aka Diving.jpg
+Regexp: (diving room|diving)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Diving
+Image: quizimages/Kanal/Diving Room aka Diving2.jpg
+Regexp: (diving room|diving)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Green Stairs
+Image: quizimages/Kanal/Green Stairs.jpg
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Kayaks
+Image: quizimages/Kanal/Kayaks.jpg
+Regexp: (kayaks|kayak)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Kayaks
+Image: quizimages/Kanal/Kayaks2.jpg
+Regexp: (kayaks|kayak)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Kitchen
+Image: quizimages/Kanal/Kitchen.jpg
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Kitchen
+Image: quizimages/Kanal/Kitchen2.jpg
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Locker Room aka Lockers
+Image: quizimages/Kanal/Locker Room aka Lockers.jpg
+Regexp: (locker room|lockers)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Lounge
+Image: quizimages/Kanal/Lounge.jpg
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Lounge
+Image: quizimages/Kanal/Lounge2.jpg
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Lower Bridge
+Image: quizimages/Kanal/Lower Bridge.jpg
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Lower Bridge
+Image: quizimages/Kanal/Lower Bridge2.jpg
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Map
+Image: quizimages/Kanal/Map Room aka Map.jpg
+Regexp: (map room|map)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Map
+Image: quizimages/Kanal/Map Room aka Map2.jpg
+Regexp: (map room|map)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Map
+Image: quizimages/Kanal/Map Room aka Map3.jpg
+Regexp: (map room|map)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Map Hall
+Image: quizimages/Kanal/Map Room Corridor aka Map Room Hall aka Map Hall.jpg
+Regexp: (map room corridor|map room hall|map hall|map hallway)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Map Hall
+Image: quizimages/Kanal/Map Room Corridor aka Map Room Hall aka Map Hall2.jpg
+Regexp: (map room corridor|map room hall|map hall)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Model
+Image: quizimages/Kanal/Model Room aka Model.jpg
+Regexp: (model room|model)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Model
+Image: quizimages/Kanal/Model Room aka Model2.jpg
+Regexp: (model room|model)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Museum
+Image: quizimages/Kanal/Museum.jpg
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Closet
+Image: quizimages/Kanal/Pipes aka Closet.jpg
+Regexp: (pipes|closet)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Closet
+Image: quizimages/Kanal/Pipes aka Closet2.jpg
+Regexp: (pipes|closet)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Printer
+Image: quizimages/Kanal/Printer Room aka Printer.jpg
+Regexp: (printer room|printer)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Projector
+Image: quizimages/Kanal/Projector Room aka Projector.jpg
+Regexp: (projector room|projector)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Projector
+Image: quizimages/Kanal/Projector Room aka Projector2.jpg
+Regexp: (projector room|projector)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Radar
+Image: quizimages/Kanal/Radar Room aka Radar.jpg
+Regexp: (radar room|radar)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Radar
+Image: quizimages/Kanal/Radar Room aka Radar2.jpg
+Regexp: (radar room|radar)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Radio
+Image: quizimages/Kanal/Radio Room aka Radio.jpg
+Regexp: (radio room|radio)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Radio
+Image: quizimages/Kanal/Radio Room aka Radio2.jpg
+Regexp: (radio room|radio)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Radio Hall
+Image: quizimages/Kanal/Radio Room Hallway aka Coast Guard Hall aka Radio Hall.jpg
+Regexp: (radio room hallway|coast guard hall|radio hall)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Radio Hall
+Image: quizimages/Kanal/Radio Room Hallway aka Coast Guard Hall aka Radio Hall2.jpg
+Regexp: (radio room hallway|coast guard hall|radio hall)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Reception
+Image: quizimages/Kanal/Reception.jpg
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Reception
+Image: quizimages/Kanal/Reception2.jpg
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Red Stairs
+Image: quizimages/Kanal/Red Stairs.jpg
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Tarp
+Image: quizimages/Kanal/Renovations aka Blue Tarp aka Tarp.jpg
+Regexp: (renovations|blue tarp|tarp)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Tarp
+Image: quizimages/Kanal/Renovations aka Blue Tarp aka Tarp2.jpg
+Regexp: (renovations|blue tarp|tarp)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Kill Box
+Image: quizimages/Kanal/Roof Entrance aka Small Box aka Box aka Kill Box.jpg
+Regexp: (roof entrance|small box|box|kill box)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Security
+Image: quizimages/Kanal/Security Room aka Security.jpg
+Regexp: (security room|security)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Security
+Image: quizimages/Kanal/Security Room aka Security2.jpg
+Regexp: (security room|security)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Servers
+Image: quizimages/Kanal/Server Room aka Server aka Servers.jpg
+Regexp: (server room|server|servers|server)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Servers
+Image: quizimages/Kanal/Server Room aka Server aka Servers2.jpg
+Regexp: (server room|server|servers)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Green Hall
+Image: quizimages/Kanal/Server Room Corridor aka Green Hall.jpg
+Regexp: (server room corridor|green hall|green hallway)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Green Hall
+Image: quizimages/Kanal/Server Room Corridor aka Green Hall2.jpg
+Regexp: (server room corridor|green hall|green hallway)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Showers
+Image: quizimages/Kanal/Shower Corridor aka Showers.jpg
+Regexp: (shower corridor|showers|shower)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Showers
+Image: quizimages/Kanal/Shower Corridor aka Showers2.jpg
+Regexp: (shower corridor|showers|shower)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Supplies
+Image: quizimages/Kanal/Supply Room aka Supplies.jpg
+Regexp: (supply room|supplies|supply)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Supplies
+Image: quizimages/Kanal/Supply Room aka Supplies2.jpg
+Regexp: (supply room|supplies|supply)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Tunnel
+Image: quizimages/Kanal/Tunnel.jpg
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Sky Bridge
+Image: quizimages/Kanal/Upper Bridge aka Sky Bridge.jpg
+Regexp: (upper bridge|sky bridge)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Sky Bridge
+Image: quizimages/Kanal/Upper Bridge aka Sky Bridge2.jpg
+Regexp: (upper bridge|sky bridge)
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: White Stairs
+Image: quizimages/Kanal/White Stairs.jpg
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: White Stairs
+Image: quizimages/Kanal/White Stairs2.jpg
+Diffculty: Beginner
+
+Category: Kanal
+Question: What is the name of this section of the map?
+Answer: Yellow Stairs
+Image: quizimages/Kanal/Yellow Stairs.jpg
+Diffculty: Beginner
+
+end
