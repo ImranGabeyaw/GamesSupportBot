@@ -23,11 +23,14 @@ Examples
 -----------------------
 
   - !flame command
-  ![alt text](https://github.com/ImranAgraw/GamesSupportBot/flame.png?raw=true)
+  
+  ![alt text](https://github.com/ImranAgraw/GamesSupportBot/blob/main/flame.png?raw=true)
   - !quiz command
-  ![alt text](https://github.com/ImranAgraw/GamesSupportBot/quiz.png?raw=true)
+  
+  ![alt text](https://github.com/ImranAgraw/GamesSupportBot/blob/main/quiz.png?raw=true)
   - scheduled ping
-  ![alt text](https://github.com/ImranAgraw/GamesSupportBot/ping.png?raw=true)
+  
+  ![alt text](https://github.com/ImranAgraw/GamesSupportBot/blob/main/ping.png?raw=true)
   
 Usage
 -----------------------
