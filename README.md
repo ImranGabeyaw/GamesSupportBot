@@ -10,7 +10,7 @@ GamesSupportBot
  
 About 
 ------------
-  GamesSupportBot is a discord bot that was created to assist in the quality of life, education, or improvement of skill for certain video games (currently Maplestory and 
+  GamesSupportBot is a discord bot that was created to assist in the quality of life, education, and improvement of skill for certain video games (currently Maplestory and 
   Rainbow Six Siege).
   
   Main functions;
