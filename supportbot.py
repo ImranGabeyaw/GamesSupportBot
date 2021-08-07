@@ -85,16 +85,21 @@ async def flame(ctx):
                 os.remove("img.png")
                 
                 flame = parse(text)
-                if is_valid_image(flame):
-                    flameScore = flame.flame_score()
-                    format_float = "{:.2f}".format(flameScore)
-                    embed = discord.Embed()
-                    embed.add_field(name="__**Flame Stats**__", value=flame.flame_stats(), inline=False)
-                    embed.add_field(name="__**Flame Score**__", value=format_float, inline=False)
-                    embed.add_field(name="__**Flame Recommendation**__", value=flame.flame_recommendation(), inline=False)
-                    await ctx.send(embed=embed)
+                
+                try:
+                    flame_score = flame.flame_score()
+                    flame_stats = flame.flame_stats()
+                    flame_recommendation = flame.flame_recommendation()
+                    level = flame.item_level()
+                except BadImageError as e:
+                    await ctx.send(e)
                 else:
-                    await ctx.send("Please ensure that the image you are sending is of a maplestory item")
+                    embed = discord.Embed()
+                    embed.add_field(name="__**Item Level**__", value=level, inline=False)
+                    embed.add_field(name="__**Flame Stats**__", value=flame_stats, inline=False)
+                    embed.add_field(name="__**Flame Score**__", value=flame_score, inline=False)
+                    embed.add_field(name="__**Flame Recommendation**__", value=flame_recommendation, inline=False)
+                    await ctx.send(embed=embed)
             else:
                 await ctx.send("Please send this command together with an image of a maplestory item")
     else:
